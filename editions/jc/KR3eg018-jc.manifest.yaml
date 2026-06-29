@@ -1,0 +1,374 @@
+canonical_identifier: bkk:krp/KR3eg018/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg018/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六氣感證要義
+  identifiers:
+    krp: KR3eg018
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg018.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg018_000-jc.yaml, hash: 'sha256:d00b7bea6e4ef4431b10976bb8a88d5c7b53b901bd1715e837ac96687b80ce09'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg018_000-jc.markers.yaml, hash: 'sha256:cbf521408ccf5f1d91c170c4949410f4c75507d149556d8600c5e4dd61f66fe5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 613
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 749
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d4.h1s1
+    span:
+    - body
+    - 749
+    - 2324
+  label: 風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d4d2
+    span:
+    - body
+    - 750
+    - 1181
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d4d3
+    span:
+    - body
+    - 1181
+    - 2324
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d5.h1s1
+    span:
+    - body
+    - 2324
+    - 4102
+  label: 中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d5d2
+    span:
+    - body
+    - 2326
+    - 3143
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d5d3
+    span:
+    - body
+    - 3143
+    - 4102
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d6.h1s1
+    span:
+    - body
+    - 4102
+    - 5348
+  label: 寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d6d2
+    span:
+    - body
+    - 4103
+    - 4509
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d6d3
+    span:
+    - body
+    - 4509
+    - 5348
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d7.h1s1
+    span:
+    - body
+    - 5348
+    - 10632
+  label: 中寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d7d2
+    span:
+    - body
+    - 5350
+    - 7745
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d7d3
+    span:
+    - body
+    - 7745
+    - 10632
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d8.h1s1
+    span:
+    - body
+    - 10632
+    - 13443
+  label: 暑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d8d2
+    span:
+    - body
+    - 10633
+    - 12058
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d8d3
+    span:
+    - body
+    - 12058
+    - 13443
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d9.h1s1
+    span:
+    - body
+    - 13443
+    - 14817
+  label: 風溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d9d2
+    span:
+    - body
+    - 13445
+    - 14437
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d9d3
+    span:
+    - body
+    - 14437
+    - 14817
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d10.h1s1
+    span:
+    - body
+    - 14817
+    - 16259
+  label: 濕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d10d2
+    span:
+    - body
+    - 14818
+    - 15364
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d10d3
+    span:
+    - body
+    - 15364
+    - 16259
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d11.h1s1
+    span:
+    - body
+    - 16259
+    - 19066
+  label: 風濕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d11d2
+    span:
+    - body
+    - 16261
+    - 17293
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d11d3
+    span:
+    - body
+    - 17293
+    - 19066
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d12.h1s1
+    span:
+    - body
+    - 19066
+    - 20863
+  label: 濕溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d12d2
+    span:
+    - body
+    - 19068
+    - 19698
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d12d3
+    span:
+    - body
+    - 19698
+    - 20863
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d13.h1s1
+    span:
+    - body
+    - 20863
+    - 23271
+  label: 燥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d13d2
+    span:
+    - body
+    - 20864
+    - 22336
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d13d3
+    span:
+    - body
+    - 22336
+    - 23271
+  label: 方解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d14.h1s1
+    span:
+    - body
+    - 23271
+    - 29009
+  label: 火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d14d2
+    span:
+    - body
+    - 23272
+    - 24901
+  label: 集說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg018_jc_000-d14d3
+    span:
+    - body
+    - 24901
+    - 29009
+  label: 方解
+  type: section
+  level: 2
+hash: sha256:17835bb474b9d9dac6f69198a2d87ac4cb8bcc0cc498f4f9cb3b2c9651037fa4
