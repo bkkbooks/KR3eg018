@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg018/v1
 canonical_location: https://kanripo.org/bkk/KR3eg018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 六氣感證要義
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg018_000.yaml, hash: 'sha256:d00b7bea6e4ef4431b10976bb8a88d5c7b53b901bd1715e837ac96687b80ce09'}
+  - {seq: 0, filename: KR3eg018_000.yaml, hash: 'sha256:930b3e740f770fc059fe6a2c197aa3605ee7149304859d275f87bab5bd15fc9a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg018_000.markers.yaml, hash: 'sha256:875152774ffced8ba2ae2d36041ea4a091b6d815ddc3656910901ed6ffa738aa'}
+  - {seq: 0, role: markers, filename: assets/KR3eg018_000.markers.yaml, hash: 'sha256:72e79a6c7938174812a37dd7f1b6b71bf1d69bc0265ddad38677b0923b48d92a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,7 @@ table_of_contents:
   label: 方解
   type: section
   level: 2
-hash: sha256:ebb5d356592e660d9251233a380c534e691a02be9d6569ae4cd7fe5e6f29739f
+hash: sha256:49f50a52bc35bc8e33a753808eddb44a20454f8fbd1d58cc2aa9b6d9481e859d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
