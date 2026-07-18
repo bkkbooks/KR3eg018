@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg018_000-jc.yaml, hash: 'sha256:d00b7bea6e4ef4431b10976bb8a88d5c7b53b901bd1715e837ac96687b80ce09'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg018_000-jc.markers.yaml, hash: 'sha256:cbf521408ccf5f1d91c170c4949410f4c75507d149556d8600c5e4dd61f66fe5'}
+  - {seq: 0, role: markers, filename: assets/KR3eg018_000-jc.markers.yaml, hash: 'sha256:816b4656b19d2f6266ee3258168b6c097e937a67a7b7083603f7dd015d4c22a6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,4 @@ table_of_contents:
   label: 方解
   type: section
   level: 2
-hash: sha256:17835bb474b9d9dac6f69198a2d87ac4cb8bcc0cc498f4f9cb3b2c9651037fa4
+hash: sha256:3cfc64897be3c2d752c9f8432ca6482fd5cde70f97a03a4f1a630be0fc3b748d
